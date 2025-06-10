@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# IDE
+.vs
+.vscode
+.history
+.cache
+
+# CMake
+build
+install
