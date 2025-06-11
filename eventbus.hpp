@@ -3,6 +3,7 @@
 #ifndef __EVENTBUS_HPP__
 #define __EVENTBUS_HPP__
 
+#include <algorithm>
 #include <any>
 #include <atomic>
 #include <condition_variable>
