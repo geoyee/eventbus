@@ -1,5 +1,7 @@
 # eventbus
 
+[![CMake on multiple platforms](https://github.com/geoyee/eventbus/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/geoyee/eventbus/actions/workflows/cmake-multi-platform.yml)
+
 单头文件的 C++ 事件总线
 
 ## 使用
